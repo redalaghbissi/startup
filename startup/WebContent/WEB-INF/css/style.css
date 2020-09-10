@@ -1,0 +1,94 @@
+.body{
+
+
+}
+
+.mapdiv{
+	width: 100%;
+	margin: auto;
+}
+path :hover{
+	background-color: yellow;
+}
+
+polygon :hover{
+	background-color: yellow;
+}
+.mapdiv path{
+	stroke: #ffffff;
+	stroke-width:0.5px;
+	transition: fill 0.01;
+	opacity: 0.4;
+}
+
+.mapdiv polygon{
+	stroke: #ffffff;
+	stroke-width:0.5px;
+	transition: fill 0.01;
+}
+.mapdiv :hover{
+	fill: #ffffff;
+}
+
+.navlogo{
+	font-family: 'Trebuchet MS', serif;
+	color: #ffffff;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+}
+
+.foot{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+}
+
+#r1{
+	fill: red;
+	opacity: 0.9;
+}
+#r2{
+	fill: red;
+	opacity: 0,8;
+}
+#r3{
+	fill: red;
+	opacity: 0.4;
+}
+#r4{
+	fill: red;
+	opacity: 0.1;
+}
+#r5{
+	fill: red;
+	opacity: 1;
+}
+#r6{
+	fill: red;
+	opacity: 1;
+}
+#r7{
+	fill: red;
+	opacity: 0,3;
+}
+#r8{
+	fill: red;
+	opacity: 0.9;
+}
+#r9{
+	fill: red;
+	opacity: 0.3;
+}
+#r10{
+	fill: red;
+	opacity: 1;
+}
+#r11{
+	fill: red;
+	opacity: 0.5;
+}
+#r12{
+	fill: red;
+	opacity: 0.1;
+}
